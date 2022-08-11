@@ -36,7 +36,7 @@ h2 {
 li {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   font-weight: 100;
 }
 
@@ -52,4 +52,5 @@ p {
 footer {
   background-color: #319c9e;
   padding: 5px 0;
+  text-align: center;
 }
