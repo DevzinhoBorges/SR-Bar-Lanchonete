@@ -16,7 +16,7 @@ main {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 36px;
   color: #0a5c82;
   margin-bottom: 10px;
   text-align: center;
@@ -42,11 +42,11 @@ li {
 
 h3 {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 25px;
 }
 
 p {
-  font-size: 13px;
+  font-size: 16px;
 }
 
 footer {
