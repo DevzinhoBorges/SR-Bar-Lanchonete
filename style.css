@@ -10,7 +10,8 @@ body {
 }
 
 main {
-  max-width: 300px;
+  max-width: 450px;
+  height: 100vh;
   margin: 30px auto;
 }
 
